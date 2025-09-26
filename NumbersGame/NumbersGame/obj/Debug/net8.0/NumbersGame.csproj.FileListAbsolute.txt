@@ -1,0 +1,14 @@
+G:\New_vs\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.exe
+G:\New_vs\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.deps.json
+G:\New_vs\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.runtimeconfig.json
+G:\New_vs\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.dll
+G:\New_vs\NumbersGame\NumbersGame\bin\Debug\net8.0\NumbersGame.pdb
+G:\New_vs\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+G:\New_vs\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.AssemblyInfoInputs.cache
+G:\New_vs\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.AssemblyInfo.cs
+G:\New_vs\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.csproj.CoreCompileInputs.cache
+G:\New_vs\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.dll
+G:\New_vs\NumbersGame\NumbersGame\obj\Debug\net8.0\refint\NumbersGame.dll
+G:\New_vs\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.pdb
+G:\New_vs\NumbersGame\NumbersGame\obj\Debug\net8.0\NumbersGame.genruntimeconfig.cache
+G:\New_vs\NumbersGame\NumbersGame\obj\Debug\net8.0\ref\NumbersGame.dll
